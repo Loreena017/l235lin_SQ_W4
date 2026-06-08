@@ -42,8 +42,6 @@ function drawBackground() {
 
 // ------------------------------------------------------------
 // drawPotMan(x, y, size, col, t)
-// Draws Bennett Foddy's protagonist — a man in a pot.
-// t is used for subtle wobble animation.
 // ------------------------------------------------------------
 
 function drawPotMan(x, y, s, col) {
