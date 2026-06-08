@@ -13,10 +13,10 @@ scenes[11] = function () {
 
   drawNarrativeBox(
     [
-      "No hesitation. No detours. Just the mountain and you.",
-      "You stood on the summit and felt the wind agree.",
-      "The valley was impossibly far below.",
-      '"Some climb to find themselves. You climbed to prove it."',
+      "No hesitation. No detours. Just the destination in sight.",
+      "You've made it this far, there is no going back now.",
+      "The valley below reminds you of how far you've come.",
+      '"There is no room for mistake."',
     ],
     338
   );

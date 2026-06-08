@@ -5,7 +5,7 @@
 
 scenes[12] = function () {
 
-  image(bg8, 0, 0, width, height);
+  image(bg10, 0, 0, width, height);
   drawPotMan(width/2, 200, 58, color(120, 90, 180), potManT * 0.5);
 
   drawTitle("THE RAVEN'S SECRET", 48, 32, color(190, 130, 255));

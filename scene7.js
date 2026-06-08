@@ -8,23 +8,13 @@ scenes[7] = function () {
   
   drawPotMan(415, 248, 68, color(100, 190, 80), potManT * 1.5);
 
-  // Victory particles
-  push();
-  noStroke();
-  randomSeed(33);
-  for (let p = 0; p < 30; p++) {
-    let px = 300 + random(200);
-    let py = 150 + sin(blobT * 2 + p) * 20 - p * 3;
-    fill(random([color(255,220,60), color(100,255,180), color(200,100,255)]), 200);
-    ellipse(px, py, random(4,10));
-  }
-  pop();
-
   drawTitle("THE SUMMIT GRASP", 50, 34, color(255, 230, 80));
 
   drawNarrativeBox(
     [
       "Your hammer finds stone. Your arms find strength.",
+      "You grasp the ledge and pull yourself up.",
+      "The summit is within reach. You are nearing the end.",
       '"You did it. Not despite the fall — because of it."',
     ],
     330

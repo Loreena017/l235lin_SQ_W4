@@ -14,10 +14,10 @@ scenes[1] = function () {
   // Narrow narrative
   drawNarrativeBox(
     [
-      "The bamboo closes in around you like a cage of green jade.",
+      "The bamboo closes in around you like a cage.",
       "Your hammer clicks against hollow stalks.",
       "One wrong swing and you tumble back to the valley.",
-      "How do you approach this?",
+      "What is your next move?",
     ],
     130
   );

@@ -14,9 +14,9 @@ scenes[3] = function () {
   drawNarrativeBox(
     [
       "You swing harder. Faster. The bamboo bends beneath you.",
-      "Physics takes over. You're launched into cold air.",
+      "Launched into the air, you see.",
       "A rocky ledge glints to the right. Clouds swirl below.",
-      "What do you do as you arc through the sky?",
+      "Where direction do you take next?",
     ],
     148
   );

@@ -12,10 +12,10 @@ scenes[6] = function () {
 
   drawNarrativeBox(
     [
-      "The wall hid a secret: a shelf of pure black obsidian.",
-      "Ancient carvings pulse with violet light.",
-      "Two paths lead higher — one built by human hands,",
-      "one grown from impossible ice.",
+      "Another swing yanks you forward.",
+      "And eventually the walls reveals, a wall of obsidian.",
+      "folowed by two paths, and two destinations,",
+      "Now which is your choice?",
     ],
     130
   );

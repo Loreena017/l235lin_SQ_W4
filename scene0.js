@@ -29,9 +29,9 @@ scenes[0] = function () {
   drawNarrativeBox(
     [
       "Sitting at the bottom of the mountain, the summit is impossibly far.",
-      "The summit is impossibly far. Gravity is unforgiving.",
-      "Every decision matters. Every swing of the hammer could be your last.",
-      "Time to start climbing...",
+      "All you have is your hammer and a destination.",
+      "Every decision matters. Every swing could be your last.",
+      "Which path do you take?",
     ],
     150
   );

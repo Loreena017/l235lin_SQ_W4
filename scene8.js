@@ -16,7 +16,7 @@ scenes[8] = function () {
       "You let go. The sky embraced you — briefly.",
       "Then the mountain took you back. All the way back.",
       "You land exactly where you started, unharmed,",
-      '"but somehow changed. You understand now."',
+      '"its as if the universe gave you another chance."',
     ],
     300
   );

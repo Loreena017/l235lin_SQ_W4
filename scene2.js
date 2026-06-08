@@ -16,8 +16,8 @@ scenes[2] = function () {
     [
       "The chimney narrows. Lava boils far below.",
       "Your hammer scrapes stone. The walls bleed heat.",
-      "One slip and you'll see where you started from —",
-      "all the way at the bottom.",
+      "One slip and you'll fall into the abyss.",
+      "Which path will take to you the top?.",
     ],
     120
   );

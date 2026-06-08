@@ -14,9 +14,9 @@ scenes[10] = function () {
 
   drawNarrativeBox(
     [
-      "You waited. The fog cleared — slowly, then all at once.",
-      "There was never a gap. Only the idea of one.",
-      "The bamboo bridge had been there all along.",
+      "Waiting is not easy. You watch the fog swirl and shift.",
+      "But eventually, a gap opens in the canopy.",
+      "And there you see, a bamboo platform, solid and still.",
       '"The mountain rewards those who do not rush."',
     ],
     250
