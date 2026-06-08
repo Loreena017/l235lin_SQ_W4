@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #080610;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  /* Subtle outer glow matching the mountain-night aesthetic */
+  box-shadow: 0 0 40px rgba(80, 50, 20, 0.4);
+}
